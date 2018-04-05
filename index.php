@@ -64,6 +64,9 @@
                                         <a class="nav-link" href="#contact">Contact</a>
                                     </li>
                                 </ul>
+                                <div class="sing-in-button d-lg-none">
+                                    <a href="#">Sign In</a>
+                                </div>
                                 <div class="sing-up-button d-lg-none">
                                     <a href="#">Sign Up Free</a>
                                 </div>
